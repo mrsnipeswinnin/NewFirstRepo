@@ -1,0 +1,1 @@
+This project was created as part of my learning journey with Git, GitHub, and frontend development.It demonstrates basic Git commands, version controls, and the process of syncing a local project to a GitHub repository.
